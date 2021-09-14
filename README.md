@@ -1,0 +1,1 @@
+# independent-stock-index
